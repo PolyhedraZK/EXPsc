@@ -1,0 +1,6 @@
+.DS_Store
+.idea
+cmd/go.sum
+./core/go.sum
+go.work.sum
+/sc
