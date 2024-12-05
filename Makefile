@@ -1,5 +1,5 @@
 
-BINARY_NAME=sc
+BINARY_NAME=EXPsc
 CMD_DIR=./cmd
 CORE_DIR=./core
 OUTPUT_DIR=../
